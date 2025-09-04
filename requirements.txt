@@ -1,0 +1,12 @@
+# Orchestration Framework
+crewai
+crewai-tools
+
+# LLM and Tool Integrations
+langchain-groq
+langchain-community
+tavily-python
+
+# For custom tools and environment variables
+requests
+python-dotenv
